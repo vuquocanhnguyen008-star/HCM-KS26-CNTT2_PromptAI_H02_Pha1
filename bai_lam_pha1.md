@@ -2,7 +2,7 @@
 
 - **Họ tên:**Nguyễn Vũ Quốc Anh
 - **Lớp:** HCM-KS26-CNTT2
-- **Link repository Pha1:**
+- **Link repository Pha1:**https://github.com/vuquocanhnguyen008-star/HCM-KS26-CNTT2_PromptAI_H02_Pha1
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
