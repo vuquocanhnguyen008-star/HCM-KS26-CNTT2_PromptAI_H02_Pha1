@@ -13,10 +13,10 @@
 **GHI CHU DA AN DANH**
 
 ```text
-[TEN_KHACH] 
-[SO_DIEN_THOAI] 
-[SO_CCCD] 
-[Email] 
+Khán giả [TEN_KHACH] 
+số điện thoại [SO_DIEN_THOAI] 
+số CCCD [SO_CCCD] 
+email [Email] 
 đặt 3 vé gói SVT trận bán kết Cúp Sao Vàng ngày 18/12/2026 cho 2 người lớn và 1 trẻ em 9 tuổi. 
 Khán giả đã chuyển khoản đặt cọc 1.500.000 đồng. Khán giả yêu cầu 3 ghế ngồi cạnh nhau gần lối đi.
 
@@ -100,10 +100,15 @@ QUY TẮC TÍNH GIÁ
 4. Tổng tiền = tiền vé sau giảm + phụ thu.
 
 A - Action
-Pha 1: 
-suy luận từng bước theo thứ tự tiền người lớn → tiền trẻ em → tiền vé → giảm giá nhóm → phụ thu → tổng tiền, 
-mỗi bước ghi phép tính; dòng cuối có dạng [RESULT: <tổng tiền> đồng].
 
+Bước 1: tiền người lớn 
+Bước 2: tiền trẻ em 
+Bước 3: tiền vé 
+Bước 4: giảm giá nhóm 
+Bước 5: phụ thu 
+Bước 6: tổng tiền
+mỗi bước ghi phép tính; dòng cuối có dạng [RESULT: <tổng tiền> đồng].
+Pha 2:
 đưa bảng giá, quy tắc và yêu cầu báo giá vào cặp dấu phân tách
 </tin_nhan>...</tin_nhan>
 
@@ -125,7 +130,7 @@ Kết quả đúng:
 **PROMPT**
 
 ```text
-Bạn là nhân viên đọc email của Ban tổ chức Cúp Sao Vàng. Chỉ dùng chính sách trong thẻ <Doc_Email> để ddocj email khasch. Trả về đúng một đối tượng JSON, không giải thích:
+Bạn là nhân viên đọc email của Ban tổ chức Cúp Sao Vàng. Chỉ dùng chính sách trong thẻ <Doc_Email> để đọc email khách. Trả về đúng một đối tượng JSON, không giải thích:
 đọc email, trả về chỉ một đối tượng JSON gồm đúng 4 trường:
 {"loai_su_co": một trong "tran_gio" | "sai_khu_vuc" | "nhan_vien" | "khac", "so_khach": số nguyên, "so_hiep_bi_anh_huong": số nguyên hoặc null, "tom_tat": "không quá 20 từ"}
 
