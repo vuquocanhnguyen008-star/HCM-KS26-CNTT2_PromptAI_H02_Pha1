@@ -59,7 +59,7 @@ chuyển TN1, TN2, TN3 thành một mảng JSON 3 đối tượng, đúng thứ 
 Chỉ trả về JSON, không chào hỏi, không giải thích.
 
 đưa bảng giá, quy tắc và yêu cầu báo giá vào cặp dấu phân tách
-•	Đặt 3 tin nhắn cần xử lý trong cặp dấu phân tách (ví dụ <tin_nhan>…</tin_nhan>).
+Đặt 3 tin nhắn cần xử lý trong cặp dấu phân tách (ví dụ <tin_nhan>…</tin_nhan>).
 T - Tone
 Giọng văn không nịnh hót, rõ ràng, chính xác, có lập trường riêng của mình. 
 E - Extras.
