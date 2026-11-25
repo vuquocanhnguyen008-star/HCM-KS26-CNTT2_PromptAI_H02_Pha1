@@ -107,8 +107,9 @@ Bước 3: tiền vé
 Bước 4: giảm giá nhóm 
 Bước 5: phụ thu 
 Bước 6: tổng tiền
+
 mỗi bước ghi phép tính; dòng cuối có dạng [RESULT: <tổng tiền> đồng].
-Pha 2:
+
 đưa bảng giá, quy tắc và yêu cầu báo giá vào cặp dấu phân tách
 </tin_nhan>...</tin_nhan>
 
