@@ -13,12 +13,7 @@
 **GHI CHU DA AN DANH**
 
 ```text
-Khán giả [TEN_KHACH] 
-số điện thoại [SO_DIEN_THOAI] 
-số CCCD [SO_CCCD] 
-email [Email] 
-đặt 3 vé gói SVT trận bán kết Cúp Sao Vàng ngày 18/12/2026 cho 2 người lớn và 1 trẻ em 9 tuổi. 
-Khán giả đã chuyển khoản đặt cọc 1.500.000 đồng. Khán giả yêu cầu 3 ghế ngồi cạnh nhau gần lối đi.
+Khán giả [TEN_KHACH], số điện thoại [SO_DIEN_THOAI], số CCCD [SO_CCCD], email [Email], đặt 3 vé gói SVT trận bán kết Cúp Sao Vàng ngày 18/12/2026 cho 2 người lớn và 1 trẻ em 9 tuổi. Khán giả đã chuyển khoản đặt cọc 1.500.000 đồng. Khán giả yêu cầu 3 ghế ngồi cạnh nhau gần lối đi.
 
 ```
 
